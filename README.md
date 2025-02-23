@@ -9,7 +9,7 @@ Hi there! I'm Muhammed Raahim and I'm a developer.  I'm always eager to learn ne
 
 ## Skills & Technologies
 
-java,html,css
+[![My Skills](https://skillicons.dev/icons?i=java,html,css&perline=8)](https://skillicons.dev)
 
 ## Recent Activity
 
