@@ -17,7 +17,7 @@ As I am just starting, I currently do not have any recent activity to showcase. 
 
 ## Connect with Me
 
-{Email: raahimpro1@gmail.com}
+{Email: muhammadraahim404@gmail.com}
 ⭐️ From: Muhammad Raahim
 
 <!---
